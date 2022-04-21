@@ -1,4 +1,4 @@
-import { Content } from "./globalStyles";
+import { Content } from "./styles";
 
 interface IParagraphProps {
   paragraph: string;
